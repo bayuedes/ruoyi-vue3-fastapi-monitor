@@ -152,3 +152,10 @@ cython_debug/
 .opencode/
 .qoder/
 .trae/
+
+# Logs directory (runtime)
+logs/
+
+# Upload dir
+ruoyi-fastapi-backend/upload/
+ruoyi-fastapi-backend/files/
